@@ -1,3 +1,3 @@
-// build time:Sat Jan 04 2020 14:59:22 GMT+0800 (GMT+08:00)
+// build time:Sat Jan 04 2020 15:03:06 GMT+0800 (GMT+08:00)
 [{name:"五月雨变奏电音",artist:"AnimeVibe",url:"http://xxx.com/music1.mp3",cover:"http://xxx.com/music-cover1.png"},{name:"Take me hand",artist:"DAISHI DANCE,Cecile Corbel",url:"/medias/music/music2.mp3",cover:"/medias/music/cover2.png"},{name:"Shape of You",artist:"J.Fla",url:"http://xxx.com/music3.mp3",cover:"http://xxx.com/music-cover3.png"}];
 //rebuild by neat 
